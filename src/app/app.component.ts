@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'HelloWorld';
+  title = 'Nota-o em todos os teus caminhos, e Ele endireitará as tuas veredas.';
 }
